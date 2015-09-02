@@ -2,9 +2,9 @@
 logo_text: # Add text logo instead of logo image
 menu:
   Home: /
-  Archives: archives
   Categories: categories
   Tags: tags
+  Archives: archives
   About: about
 
 # Content
